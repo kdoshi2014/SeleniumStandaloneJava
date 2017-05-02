@@ -1,6 +1,6 @@
 #TestNG-Java-Local
 
-[TestNG](http://testng.org) Test project to test sample scenarios using Java, TestNG.
+[TestNG](http://testng.org) Test project to test sample scenarios using Selenium standalone server in Java.
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
