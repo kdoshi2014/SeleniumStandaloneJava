@@ -1,4 +1,4 @@
-#TestNG-Java-Local
+#Java-Standalone-server
 
 [TestNG](http://testng.org) Test project to test sample scenarios using Selenium standalone server in Java.
 
